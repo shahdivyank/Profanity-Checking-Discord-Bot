@@ -1,1 +1,1 @@
-worker: python main.py
+worker: python profanity-checking-discord-bot.py
